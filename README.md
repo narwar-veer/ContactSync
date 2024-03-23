@@ -9,6 +9,11 @@ ContactSync is a web application designed to help users manage their contacts ef
 - Secure Authentication: Passwords are securely hashed using BCryptPasswordEncoder to ensure data security.
 - Responsive Design: The frontend is designed using Thymeleaf, providing a responsive and user-friendly interface.
 
+  ## Web Page Screenshots:
+![Home Page](artifacts/Home.png)
+![Signup Page](artifacts/SignUp.png)
+![Login Page](artifacts/Login.png)
+
 ## Technologies Used:
 - Spring Boot: For building the backend RESTful API and handling user authentication.
 - Thymeleaf: Used for server-side HTML templating to generate dynamic web pages.
